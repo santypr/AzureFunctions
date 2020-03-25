@@ -1,0 +1,11 @@
+{
+  "version": "2.0",
+  "logging": {
+    "fileLoggingMode": "debugOnly",
+    "logLevel": {
+      "Function": "Error",
+      "Function.SaintSeiyaOrchestrator": "Information",
+      "default": "Error"
+    }
+  }
+}
