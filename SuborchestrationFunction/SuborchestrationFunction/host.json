@@ -1,5 +1,6 @@
 {
   "version": "2.0",
+  "logger": {"defaultLevel": "Debug"},
   "logging": {
     "fileLoggingMode": "debugOnly",
     "logLevel": {
